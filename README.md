@@ -5,10 +5,10 @@ Welcome to the official documentation repository for the Rise or Pay Alarm, a mo
 ## Repository Contents
 
 ### 1. Privacy Policy
-[Privacy Policy](Privacy_policy.md) describes what data is collected by the app, how it is used, and with whom it may be shared. This document is crucial for understanding your rights and our obligations regarding personal information and privacy.
+[Privacy Policy](Privacy_Policy.md) describes what data is collected by the app, how it is used, and with whom it may be shared. This document is crucial for understanding your rights and our obligations regarding personal information and privacy.
 
 ### 2. Terms of Usage
-[Terms of Usage](Terms_of_usage.md) outlines the rules and conditions for using RiseOrPayAlarmApp. It contains information on user rights and responsibilities, app usage restrictions, and our liability.
+[Terms of Usage](Terms_of_Usage.md) outlines the rules and conditions for using RiseOrPayAlarmApp. It contains information on user rights and responsibilities, app usage restrictions, and our liability.
 
 ## How to Use This Repository
 
